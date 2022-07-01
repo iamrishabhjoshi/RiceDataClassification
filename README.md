@@ -1,2 +1,2 @@
 # RiceDataClassification
-It consists of breast cancer data and apply machine learning on it.
+It consists of rice data and apply classification  on it.
